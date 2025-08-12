@@ -26,7 +26,7 @@ Adding our rules to your Comodo WAF provides:
 > Incorrect changes can make your site go offline.
 
 ### 1️⃣ Download the Ruleset
-[📥 Download StopBadBots WAF Rules](LINK_TO_DOWNLOAD_YOUR_RULES_ZIP_FILE)
+📥 Download the 3 files 
 
 After downloading, unzip the package. You will find:
 - `stopbadbots_waf.conf` → main rules file
