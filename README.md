@@ -13,7 +13,6 @@ This custom ruleset from **StopBadBots** adds **proactive protection** to stop t
 
 Adding our rules to your Comodo WAF provides:
 
-✅ **Proactive Brute-Force Protection** — Detects and blocks IPs with multiple failed WordPress login attempts.  
 ✅ **Intelligent Scanner Detection** — Blocks bots causing too many 404 errors (vulnerability scans).  
 ✅ **Reduced Server Load** — Stops bad bots before they trigger heavy PHP/database processes.  
 ✅ **Real-World Tested** — Based on real traffic analysis from high-traffic websites.  
