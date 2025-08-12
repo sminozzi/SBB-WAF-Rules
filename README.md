@@ -58,7 +58,7 @@ to the above directory (via FTP, SCP, or File Manager).
 Edit your ModSecurity configuration (`modsecurity.conf` or a custom include file)  
 and add at the end:
 ```apache
-Include /usr/local/apache/modsecurity-cwaf/rules/stopbadbots_waf.conf
+Include /usr/local/apache/modsecurity-cwaf/rules/stopbadbots-waf.conf
 ```
 
 ---
