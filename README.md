@@ -1,7 +1,5 @@
 # Supercharge Your Comodo WAF with StopBadBots Custom Rules
 
-*(optional)*
-
 > **Important:** These rules are designed exclusively to work with and enhance the **Comodo WAF** rule set. They are not a standalone firewall and should not be used without Comodo's core rules already in place.
 
 The default Comodo WAF provides a solid foundation for server security. However, many modern threats are behavioral, involving bots that scan, probe, and attempt to brute-force your site. This custom ruleset from StopBadBots adds a critical layer of proactive, behavior-based defense to stop these threats before they can cause harm.
