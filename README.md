@@ -29,7 +29,7 @@ Adding our rules to your Comodo WAF provides:
 📥 Download the 3 files 
 
 After downloading, unzip the package. You will find:
-- `stopbadbots_waf.conf` → main rules file
+- `stopbadbots-waf.conf` → main rules file
 - `web-shells-php.data` → malicious file name patterns
 - `readme.txt`
 
