@@ -46,7 +46,7 @@ On most **CWP (Control Web Panel)** servers, the rules folder is:
 ### 3️⃣ Upload the Files
 Copy both:
 ```text
-stopbadbots_waf.conf
+stopbadbots-waf.conf
 web-shells-php.data
 readme.txt
 ```
