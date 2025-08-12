@@ -34,4 +34,23 @@ Integrating this ruleset gives you several key advantages over a default Comodo 
 Clone this repository or download the latest release as a ZIP file.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/your-repo-name.git```
+
+The package includes two key files:
+- `stopbadbots_waf.conf`: The main rules file.
+- `web-shells-php.data`: A list of known malicious file names used by one of the rules.
+
+### 2. Locate and Upload Files
+
+You need to upload these files to your Comodo WAF rules directory. For most servers using CWP (Control Web Panel), this path is:
+
+`/usr/local/apache/modsecurity-cwaf/rules/`
+
+Upload both `stopbadbots_waf.conf` and `web-shells-php.data` to this directory.
+
+### 3. Activate the Ruleset
+
+To make ModSecurity load your new rules, you must `Include` the file in your Apache configuration. The best way to do this is to add the following line at the end of your main ModSecurity config file (e.g., `modsecurity.conf`) or a custom include file:
+
+```apache
+Include /usr/local/apache/modsecurity-cwaf/rules/stopbadbots_waf.conf
