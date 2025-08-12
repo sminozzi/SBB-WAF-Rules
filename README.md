@@ -31,6 +31,7 @@ Adding our rules to your Comodo WAF provides:
 After downloading, unzip the package. You will find:
 - `stopbadbots_waf.conf` → main rules file
 - `web-shells-php.data` → malicious file name patterns
+- `readme.txt`
 
 ---
 
@@ -47,6 +48,7 @@ Copy both:
 ```text
 stopbadbots_waf.conf
 web-shells-php.data
+readme.txt
 ```
 to the above directory (via FTP, SCP, or File Manager).
 
