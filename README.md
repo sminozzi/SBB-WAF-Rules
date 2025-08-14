@@ -1,4 +1,4 @@
-# 🛡️ Supercharge Your Comodo WAF with StopBadBots Custom Rules
+# 🛡️ Supercharge Your Comodo WAF with StopBadBots Custom Rules updated 2025
 
 > **Important:** These rules are designed **exclusively** to work with and enhance the **Comodo WAF** rule set.  
 > They are **not** a standalone firewall and should not be used without Comodo's core rules already in place.
