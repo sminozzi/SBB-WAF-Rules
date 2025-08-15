@@ -13,9 +13,17 @@ This custom ruleset from **StopBadBots** adds **proactive protection** to stop t
 
 Adding our rules to your Comodo WAF provides:
 
-✅ **Intelligent Scanner Detection** — Blocks bots causing too many 404 errors (vulnerability scans).  
-✅ **Reduced Server Load** — Stops bad bots before they trigger heavy PHP/database processes.  
-✅ **Real-World Tested** — Based on real traffic analysis from high-traffic websites.  
+✅ **Proactive Behavioral Blocking**  
+Stops attackers during their initial reconnaissance phase. Our ruleset automatically identifies and blocks malicious patterns like vulnerability scans (too many 404s), rapid `HEAD` requests, and direct IP probing.
+
+✅ **Advanced Threat Protection**  
+Provides a strong, signature-based defense against a wide range of critical web application attacks, including Remote Code Execution (RCE), PHP Object Injection, Cross-Site Scripting (XSS), and Directory Traversal.
+
+✅ **Optimized for Performance**  
+Saves server resources by blocking threats at the earliest possible stage. By rejecting bad bots and obvious attacks before they reach your application, it reduces CPU, RAM, and database load.
+
+✅ **Real-World Tested and Reliable**  
+This is not a theoretical ruleset. It was built and refined based on the analysis of real-world traffic from high-traffic websites, ensuring the rules are effective against the actual techniques attackers use today.
 
 ---
 
