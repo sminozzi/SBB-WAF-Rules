@@ -11,19 +11,26 @@ This custom ruleset from **StopBadBots** adds **proactive protection** to stop t
 
 ## 🚀 1. Why Add These Rules?
 
-Adding our rules to your Comodo WAF provides:
+Our ruleset is engineered to provide a multi-layered security upgrade, combining intelligent behavioral analysis with an extensive, up-to-date knowledge base of known threats.
+
+✅ **Powered by Comprehensive & Up-to-Date Blocklists**  
+The core strength of our WAF comes from three external data files containing hundreds of current threat signatures. This includes extensive, curated lists for:
+*   **Unwanted Bots & AI Crawlers (`bad-bots.data`)**
+*   **Known Web Shell Filenames (`web-shells-php.data`)**
+*   **Sensitive & Restricted Files (`restricted-files.data`)**  
+This approach makes it incredibly simple to keep your defenses current and to customize the ruleset by adding your own block targets or whitelisting entries.
 
 ✅ **Proactive Behavioral Blocking**  
-Stops attackers during their initial reconnaissance phase. Our ruleset automatically identifies and blocks malicious patterns like vulnerability scans (too many 404s), rapid `HEAD` requests, and direct IP probing.
+Stops attackers during their initial reconnaissance phase before they can find a vulnerability. Our rules automatically identify and block malicious patterns like vulnerability scans (too many 404s), rapid `HEAD` requests, and direct probing by IP address.
 
 ✅ **Advanced Threat Protection**  
 Provides a strong, signature-based defense against a wide range of critical web application attacks, including Remote Code Execution (RCE), PHP Object Injection, Cross-Site Scripting (XSS), and Directory Traversal.
 
 ✅ **Optimized for Performance**  
-Saves server resources by blocking threats at the earliest possible stage. By rejecting bad bots and obvious attacks before they reach your application, it reduces CPU, RAM, and database load.
+Saves server resources by blocking threats at the earliest possible stage. By rejecting bad bots and obvious attacks before they reach your application, it significantly reduces CPU, RAM, and database load.
 
-✅ **Real-World Tested and Reliable**  
-This is not a theoretical ruleset. It was built and refined based on the analysis of real-world traffic from high-traffic websites, ensuring the rules are effective against the actual techniques attackers use today.
+✅ **Battle-Tested and Reliable**  
+This is not a theoretical ruleset. It was built and refined based on the analysis of real-world traffic and attack vectors from high-traffic websites, ensuring the rules are effective against the actual techniques attackers use today.
 
 ---
 
