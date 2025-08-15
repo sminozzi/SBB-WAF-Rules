@@ -10,6 +10,7 @@ This custom ruleset from **StopBadBots** adds **proactive protection** to stop t
 ---
 
 ## 🚀 1. Why Add These Rules?
+**To begin with, these rules can double the number of blocked threats. See below for why.**
 
 Our ruleset is engineered to provide a multi-layered security upgrade, combining intelligent behavioral analysis with an extensive, up-to-date knowledge base of known threats.
 
