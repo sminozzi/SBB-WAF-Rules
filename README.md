@@ -28,11 +28,13 @@ Adding our rules to your Comodo WAF provides:
 📥 Download the 3 files 
 
 After downloading, unzip the package. You will find:
-- `stopbadbots-waf.conf` → main rules file
-- `web-shells-php.data` → malicious file name patterns
-- `readme.txt`
+- `guide.md`  → Documentation 
+- `stopbadbots-rules-waf-101.conf` → main rules file
+- `web-shells-php.data` →  List of known web shell filenames
+- `bad-bots.data` → List of unwanted bot User-Agents
+- `restricted-files.data` → List of sensitive/restricted filenames
+- `readme.txt`  → General information file with a brief description, installation steps, and usage guide.
 
----
 
 ### 2️⃣ Locate Your Comodo Rules Directory
 On most **CWP (Control Web Panel)** servers, the rules folder is:
