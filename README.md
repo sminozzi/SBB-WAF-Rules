@@ -25,7 +25,7 @@ Adding our rules to your Comodo WAF provides:
 > Incorrect changes can make your site go offline.
 
 ### 1️⃣ Download the Ruleset
-📥 Download the 3 files 
+📥 Download all files 
 
 After downloading, unzip the package. You will find:
 - `guide.md`  → Documentation 
