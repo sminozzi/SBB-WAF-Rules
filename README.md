@@ -33,7 +33,7 @@ After downloading, unzip the package. You will find:
 - `web-shells-php.data` →  List of known web shell filenames
 - `bad-bots.data` → List of unwanted bot User-Agents
 - `restricted-files.data` → List of sensitive/restricted filenames
-- `readme.txt`  → General information file with a brief description, installation steps, and usage guide.
+- `readme.md`  → General information file with a brief description, installation steps, and usage guide.
 
 
 ### 2️⃣ Locate Your Comodo Rules Directory
