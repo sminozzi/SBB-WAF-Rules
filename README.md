@@ -111,4 +111,4 @@ This ruleset is maintained in our free time. You can help us:
 ---
 
 **Together, we make the web safer!**  
-Maintained with 💙 by StopBadBots.
+Maintained with 💙 by [StopBadBots](https://SyopBadBots.com)**  
