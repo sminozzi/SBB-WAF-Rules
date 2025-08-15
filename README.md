@@ -51,7 +51,6 @@ stopbadbots-rules-waf.conf
 web-shells-php.data
 bad-bots.data
 restricted-files.data
-readme.txt
 ```
 to the above directory (via FTP, SCP, or File Manager).
 
