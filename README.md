@@ -116,5 +116,47 @@ This ruleset is maintained in our free time. You can help us:
 
 ---
 
+### **FAQ - Frequently Asked Questions**
+
+**1. Are the original Comodo WAF rules still updated?**
+
+No. The Comodo WAF is considered a discontinued product and has not received rule updates since early 2024. Sticking with the old rules can leave your server vulnerable to new threats. The SBB-WAF rules were created to solve this exact problem by offering modern, continuous protection.
+
+**2. Why does my control panel (Plesk, cPanel, DirectAdmin) show an error when trying to update the Comodo rules?**
+
+Your panel tries to download updates from `waf.comodo.com`, a server that is often inaccessible or unresponsive because the service has been discontinued.
+
+**3. Are the SBB-WAF rules free? What's the difference with the commercial version?**
+
+Yes, the SBB-WAF rule set available on GitHub is **completely free**. It provides a robust and updated layer of protection for 2025. We don not offer a commercial version.
+
+**4. Do I need to uninstall the old Comodo rules before installing the SBB-WAF rules?**
+
+No. Our process is designed to enhance, not replace. We keep the original Comodo rules as a stable foundation and automatically add our SBB-WAF rules as a powerful new layer of protection. This ensures you get a modern defense against today's threats without losing the core protection you already have. 
+
+**5. Is the installation compatible with my control panel (cPanel, Plesk, DirectAdmin)?**
+
+This document provides the manual installation instructions.
+
+**6. Can these rules cause "false positives" and block my website's functionality (e.g., WordPress, WooCommerce)?**
+
+The SBB-WAF rules are developed based on over 10 years of data from our WordPress plugin, which allows us to minimize the chance of false positives on popular platforms. While any WAF can occasionally block a legitimate action, our rules are fine-tuned to be effective without compromising functionality. If an issue occurs, specific rules can be disabled.
+
+**7. How often are the SBB-WAF rules updated?**
+
+The free rule set available on GitHub is a stable and updated version for 2025. New versions will be released as needed.
+
+**8. What makes the SBB-WAF rules better than the old Comodo rules?**
+
+The SBB-WAF rules supplement Comodo's solid foundation with protections against modern threats. They are focused on blocking aggressive bots, vulnerability scanners, access attempts to sensitive files (like `xmlrpc.php`), and recent attack vectors that the outdated Comodo rules do not cover. In our tests, the combination of rules doubled the effectiveness of blocking malicious traffic.
+
+**9. Does the installation require advanced technical knowledge?**
+
+If you have SSH access to your server and can run basic commands, the installation is quite straightforward. Our step-by-step guide is designed to be clear and easy to follow. Simply copy, paste, and execute the provided commands.
+
+**10. Is it safe to use rules from a third party instead of the official Comodo ones?**
+
+Given that the "official" Comodo rules are no longer maintained, using an updated alternative is safer than using rules from 2024. Our company, StopBadBots, has over a decade of experience in website security, with a plugin active on thousands of WordPress installations. Our reputation is built on providing effective and trustworthy protection.
+
 **Together, we make the web safer!**  
 Maintained with 💙 by [StopBadBots](https://StopBadBots.com) 
