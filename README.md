@@ -102,6 +102,7 @@ Since new and powerful rules have been added, don't forget to whitelist your own
 
 ✅ **Done!** Your new WAF rules are now active.
 
+
 ---
 
 ## ❤️ 3. Support & Contribution
