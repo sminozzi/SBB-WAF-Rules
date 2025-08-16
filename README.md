@@ -95,6 +95,11 @@ Restart Apache:
 service httpd restart
 ```
 
+
+### 6️⃣ Whitelist your own server
+Since new and powerful rules have been added, don't forget to whitelist your own server's IP address.
+
+
 ✅ **Done!** Your new WAF rules are now active.
 
 ---
