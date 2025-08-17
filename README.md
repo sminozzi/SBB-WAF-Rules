@@ -37,6 +37,8 @@ This is not a theoretical ruleset. It was built and refined based on the analysi
 
 ## ⚙️ 2. Installation Guide
 
+**The installation is very simple.**
+
 > ⚠️ **Backup First:** Always make a backup before editing your WAF configuration.  
 > Incorrect changes can make your site go offline.
 
