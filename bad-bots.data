@@ -107,6 +107,7 @@ CrunchBot
 Curious
 Custo
 CyotekWebCopy
+Dalvik
 DBLBot
 DIIbot
 DSearch
@@ -212,6 +213,7 @@ Image  Fetch
 Image  Sucker
 ImagesiftBot
 IndeedBot
+infobot
 Indy  Library
 InfoNaviRobot
 InfoTekies
@@ -316,6 +318,7 @@ Nameprotect
 Navroad
 NearSite
 Needle
+Neevabot
 Nessus
 NetAnts
 NetLyzer
@@ -336,6 +339,7 @@ Ninja
 Nmap
 Nuclei
 Nutch
+oBot
 Octopus
 Offline  Explorer
 Offline  Navigator
@@ -348,6 +352,7 @@ OrangeBot
 OrangeSpider
 OutclicksBot
 OutfoxBot
+Owler
 PECL::HTTP
 PHPCrawl
 POE-Component-Client-HTTP
@@ -356,6 +361,7 @@ PageGrabber
 PageScorer
 PageThing.com
 Page  Analyzer
+paloaltonetworks
 Pandalytics
 Panscient
 Papa  Foto
@@ -412,6 +418,7 @@ SEOstats
 SISTRIX
 SMTBot
 SalesIntelligent
+sbot
 ScanAlert
 Scanbot
 ScoutJet
@@ -584,6 +591,7 @@ Xaldon  WebSpider
 Xaldon_WebSpider
 Xenu
 YaK
+Ybot
 YoudaoBot
 Zade
 Zauba
@@ -674,6 +682,7 @@ webgains-bot
 webmeup-crawler
 webpros.com
 webprosbot
+WellKnownBot
 x09Mozilla
 x22Mozilla
 xpymep1.exe
