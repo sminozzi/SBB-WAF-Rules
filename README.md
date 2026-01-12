@@ -161,4 +161,5 @@ If you have SSH access to your server and can run basic commands, the installati
 Given that the "official" Comodo rules are no longer maintained, using an updated alternative is safer than using rules from 2024. Our company, StopBadBots, has over a decade of experience in website security, with a plugin active on thousands of WordPress installations. Our reputation is built on providing effective and trustworthy protection.
 
 **Together, we make the web safer!**  
-Maintained with 💙 by [StopBadBots]([https://StopBadBots.com](https://stopbadbots.com/sbb-waf-rules/)) 
+Maintained with 💙 by [StopBadBots](https://stopbadbots.com/sbb-waf-rules/)
+
