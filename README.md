@@ -114,7 +114,7 @@ This ruleset is maintained in our free time. You can help us:
 - ⭐ **Star this repository** on GitHub  
 - 📣 **Share** with other webmasters and developers  
 - 🐛 **Report issues & false positives** in the issues section  
-- 🔌 **Install our free [StopBadBots WordPress Plugin](https://wordpress.org/plugins/stopbadbots/)**  
+- 🔌 **Install our free [StopBadBots WordPress Plugin](https://stopbadbots.com/)**  
 
 ---
 
