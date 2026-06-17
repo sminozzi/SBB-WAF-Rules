@@ -46,12 +46,13 @@ This is not a theoretical ruleset. It was built and refined based on the analysi
 📥 Download all files 
 
 After downloading, unzip the package. You will find:
-- `guide.md`  → Documentation 
+- `guide.md` → Documentation 
 - `stopbadbots-rules-waf.conf` → main rules file
-- `web-shells-php.data` →  List of known web shell filenames
+- `web-shells-php.data` → List of known web shell filenames
 - `bad-bots.data` → List of unwanted bot User-Agents
 - `restricted-files.data` → List of sensitive/restricted filenames
-- `readme.md`  → General information file with a brief description, installation steps, and usage guide.
+- `userdata_bl_headers` → Extended header blacklist for modern threats
+- `readme.md` → General information file with a brief description, installation steps, and usage guide.
 
 
 ### 2️⃣ Locate Your Comodo Rules Directory
@@ -69,8 +70,8 @@ stopbadbots-rules-waf.conf
 web-shells-php.data
 bad-bots.data
 restricted-files.data
+userdata_bl_headers
 ```
-to the above directory (via FTP, SCP, or File Manager).
 
 ---
 
