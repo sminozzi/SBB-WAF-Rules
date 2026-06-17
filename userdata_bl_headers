@@ -1,0 +1,15 @@
+# Put your headers blacklist here
+
+/Proxy-Connection/
+/Lock-Token/
+/Content-Range/
+/Translate/
+/if/
+# new june 2026
+/Accept-Charset/ # Obsoleto, só bots usam
+/X-Http-Method-Override/ # Method tampering
+/X-Http-Method/ # Method tampering
+/X-Method-Override/ # Method tampering
+/Expect/ # HTTP smuggling
+/Proxy/ # Proxy abuse (similar ao Proxy-Connection)
+/X-Middleware-Subrequest/ # Frameworks internos (Laravel/Symfony)
