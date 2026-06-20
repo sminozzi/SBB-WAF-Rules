@@ -7,6 +7,11 @@ The default **Comodo WAF** is a strong foundation for web security.
 However, many modern threats are **behavior-based**, involving bots that scan, probe, and attempt brute-force attacks.  
 This custom ruleset from **StopBadBots** adds **proactive protection** to stop these threats **before** they can cause harm.
 
+Important: These rules are designed exclusively to work with and enhance the Comodo WAF rule set.
+They are not a standalone firewall and should not be used without Comodo's core rules already in place.
+
+For reference, you can find the original Comodo WAF rules that inspired this project right here: https://github.com/sminozzi/stopbadbots-comodo
+
 ---
 
 ## 🚀 1. Why Add These Rules?
