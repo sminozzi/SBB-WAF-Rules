@@ -1,15 +1,20 @@
 # Put your headers blacklist here
 
-/Proxy-Connection/
-/Lock-Token/
-/Content-Range/
-/Translate/
-/if/
+Proxy-Connection
+Lock-Token
+Content-Range
+Translate
 # new june 2026
-/Accept-Charset/ # Obsoleto, só bots usam
-/X-Http-Method-Override/ # Method tampering
-/X-Http-Method/ # Method tampering
-/X-Method-Override/ # Method tampering
-/Expect/ # HTTP smuggling
-/Proxy/ # Proxy abuse (similar ao Proxy-Connection)
-/X-Middleware-Subrequest/ # Frameworks internos (Laravel/Symfony)
+# Obsoleto, Only bots use that
+Accept-Charset
+# Method tampering
+X-Http-Method-Override
+X-Http-Method
+X-Method-Override
+# HTTP smuggling
+Expect
+# Proxy abuse (similar to Proxy-Connection)
+Proxy
+# Frameworks internos (Laravel/Symfony)
+X-Middleware-Subrequest
+# User-Agent <<<< test
