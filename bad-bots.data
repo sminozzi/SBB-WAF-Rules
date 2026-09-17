@@ -5,7 +5,8 @@
 80legs
 ADmantX
 AIBOT
-ALittle  Client
+ALittle Client
+ALittleClient
 ASPSeek
 Abonti
 Aboundex
@@ -26,8 +27,12 @@ Anarchie
 Anarchy
 Anarchy99
 Ankit
+AnonymousFox
 Anthill
 Apexoo
+AppScan
+AppleBot
+Arachni
 Aspiegel
 Asterias
 Atomseobot
@@ -38,6 +43,7 @@ AwarioSmartBot
 BBBike
 BDCbot
 BDFetch
+BFAC
 BLEXBot
 BackDoorBot
 BackStreet
@@ -49,12 +55,12 @@ Badass
 Bandit
 Barkrowler
 BatchFTP
-Battleztar  Bazinga
+Battleztar Bazinga
 BetaBot
 Bigfoot
 Bitacle
+Black Hole
 BlackWidow
-Black  Hole
 Blackboard
 Blow
 BlowFish
@@ -88,31 +94,36 @@ Chlooe
 Citoid
 Claritybot
 ClaudeBot
+Claude-Web
 Cliqzbot
-Cloud  mapping
+Cloud mapping
 Cocolyzebot
 Cogentbot
 Collector
+Commix
+CommonCrawl
 Copier
 CopyRightCheck
 Copyscape
 Cosmos
 Craftbot
-Crawling  at  Home  Project
+Crawling at Home Project
 CrazyWebCrawler
 Crescent
 CrunchBot
 Curious
 Custo
 CyotekWebCopy
-Dalvik
 DBLBot
 DIIbot
 DSearch
-DTS  Agent
+DTS Agent
+Dalvik
 DataCha0s
+DataForSeoBot
 DatabaseDriverMysqli
 Demon
+Detectify
 Deusu
 Devil
 Digincore
@@ -130,14 +141,16 @@ DomainAppender
 DomainCrawler
 DomainSigmaCrawler
 DomainStatsBot
-Domains  Project
+Domains Project
+DotDotPwn
 Dotbot
-Download  Wonder
+Download Wonder
 Dragonfly
 Drip
+DuckAssistBot
 ECCP/1.0
-EMail  Siphon
-EMail  Wolf
+EMail Siphon
+EMail Wolf
 EasyDL
 Ebingbong
 Ecxi
@@ -145,11 +158,11 @@ EirGrabber
 EroCrawler
 Evil
 Exabot
-Express  WebPictures
+Express WebPictures
 ExtLinksBot
 Extractor
 ExtractorPro
-Extreme  Picture  Finder
+Extreme Picture Finder
 EyeNetIE
 Ezooms
 FDM
@@ -176,6 +189,7 @@ GermCrawler
 GetRight
 GetWeb
 Getintent
+Ghauri
 Gigabot
 Go!Zilla
 Go-Ahead-Got-It
@@ -186,7 +200,9 @@ Grabber
 Grafula
 GrapeFX
 GrapeshotCrawler
+Greenbone OS
 GridBot
+GuzzleHttp
 HEADMasterSEO
 HMView
 HTMLparser
@@ -196,6 +212,7 @@ Haansoft
 HaosouSpider
 Harvest
 Havij
+HeadlessChrome
 Heritrix
 Hloader
 HonoluluBot
@@ -207,25 +224,25 @@ IRLbot
 Iblog
 Id-search
 IlseBot
-Image  Fetch
-Image  Sucker
+Image Fetch
+Image Sucker
 ImagesiftBot
 IndeedBot
-infobot
-Indy  Library
+Indy Library
 InfoNaviRobot
 InfoTekies
-Information  Security  Team  InfraSec  Scanner
-InfraSec  Scanner
+Information Security Team InfraSec Scanner
+InfraSec Scanner
 Intelliseek
 InterGET
+Internet Ninja
 InternetMeasurement
 InternetSeer
-Internet  Ninja
 Iria
+IronWASP
 Iskanie
 IstellaBot
-JOC  Web  Spider
+JOC Web Spider
 JamesBOT
 Jbrofuzz
 JennyBot
@@ -236,11 +253,14 @@ Joomla
 Jorgee
 JustView
 Jyxobot
-Kenjin  Spider
-Keybot  Translation-Search-Machine
-Keyword  Density
+Kadimus
+Kenjin Spider
+Keybot Translation-Search-Machine
+Keyword Density
 Kinza
 Kozmosbot
+LFISuite
+LFImap
 LNSpiderguy
 LWP::Simple
 Lanshanbot
@@ -265,12 +285,12 @@ LinqiaMetadataDownloaderBot
 LinqiaRSSBot
 LinqiaScrapeBot
 Lipperhey
-Lipperhey  Spider
+Lipperhey Spider
 Litemage_walker
 Lmspider
 Ltx71
 MFC_Tear_Sample
-MIDown  tool
+MIDown tool
 MIIxpc
 MJ12bot
 MQQBrowser
@@ -281,50 +301,59 @@ Mag-Net
 Magnet
 Mail.RU_Bot
 Majestic-SEO
+Majestic SEO
 Majestic12
-Majestic  SEO
 MarkMonitor
 MarkWatch
-Mass  Downloader
+Mass Downloader
 Masscan
-Mata  Hari
+Mata Hari
 MauiBot
 Mb2345Browser
-MeanPath  Bot
+MeanPath Bot
 Meanpathbot
 Mediatoolkitbot
 MegaIndex.ru
+Meta-ExternalAgent
 Metauri
 MicroMessenger
-Microsoft  Data  Access
-Microsoft  URL  Control
+Microsoft Data Access
+Microsoft URL Control
 Minefield
-Mister  PiX
-Moblie  Safari
+Mister PiX
+Moblie Safari
 Mojeek
+MojeekBot
 Mojolicious
 MolokaiBot
-Morfeus  Fucking  Scanner
+Morfeus Fucking Scanner
+Mozilla/4.0 (Hydra)
+Mozilla/5.0 (compatible; AppScan;
+Mozilla/5.0 (compatible; Panoptic
+Mozilla/5.g
+Mozilla/6.0
 Mozlila
 Mr.4x3
 Msrabot
 Musobot
 NICErsPRO
 NPbot
-Name  Intelligence
+Name Intelligence
 Nameprotect
 Navroad
 NearSite
 Needle
 Neevabot
 Nessus
+Net Vampire
 NetAnts
 NetLyzer
 NetMechanic
 NetSpider
+NetSystemsResearch
 NetZIP
-Net  Vampire
 Netcraft
+Nettacker
 Nettrack
 Netvibes
 NextGenSearchBot
@@ -335,13 +364,15 @@ NimbleCrawler
 Nimbostratus
 Ninja
 Nmap
+NoseyParker
 Nuclei
 Nutch
-oBot
+OAI-SearchBot
 Octopus
-Offline  Explorer
-Offline  Navigator
+Offline Explorer
+Offline Navigator
 OnCrawl
+OnetBound
 OpenLinkProfiler
 OpenVAS
 Openfind
@@ -354,17 +385,17 @@ Owler
 PECL::HTTP
 PHPCrawl
 POE-Component-Client-HTTP
+Page Analyzer
 PageAnalyzer
 PageGrabber
 PageScorer
 PageThing.com
-Page  Analyzer
-paloaltonetworks
 Pandalytics
 Panscient
-Papa  Foto
+Papa Foto
 Pavuk
 PeoplePal
+PetalBot-Video
 Petalbot
 Pi-Monster
 Picscout
@@ -373,8 +404,10 @@ PictureFinder
 Piepmatz
 Pimonster
 Pixray
+Playwright
 PleaseCrawl
 Pockey
+PostmanRuntime
 ProPowerBot
 ProWebWalker
 Probethenet
@@ -382,9 +415,13 @@ Proximic
 Psbot
 Pu_iN
 Pump
+Punkspider
+Puppeteer
 PxBroker
 PyCurl
-QueryN  Metasearch
+Python-requests
+Python-urllib
+QueryN Metasearch
 Quick-Crawler
 RSSingBot
 Rainbot
@@ -415,8 +452,8 @@ SEOprofiler
 SEOstats
 SISTRIX
 SMTBot
+SSTIMap
 SalesIntelligent
-sbot
 ScanAlert
 Scanbot
 ScoutJet
@@ -428,6 +465,7 @@ Searchestate
 SearchmetricsBot
 Seekport
 SeekportBot
+Selenium
 SemanticJuice
 Semrush
 SemrushBot
@@ -443,6 +481,7 @@ SeoSiteCheckup
 SeobilityBot
 Seomoz
 Shodan
+Shortscan
 Siphon
 SiteAuditBot
 SiteCheckerBotCrawler
@@ -450,10 +489,11 @@ SiteExplorer
 SiteLockSpider
 SiteSnagger
 SiteSucker
-Site  Sucker
+Site Sucker
 Sitebeam
 Siteimprove
 Sitevigil
+Skipfish
 SlySearch
 SmartDownload
 Snake
@@ -461,7 +501,8 @@ Snapbot
 Snoopy
 SocialRankIOBot
 Sociscraper
-Sogou  web  spider
+Sogou web spider
+SogouSearch
 Sosospider
 Sottopop
 SpaceBison
@@ -490,38 +531,44 @@ Swiftbot
 Szukacz
 T0PHackTeam
 T8Abot
+TInjA
 Teleport
 TeleportPro
 Telesoft
 Telesphoreo
 Telesphorep
+The Intraformant
 TheNomad
-The  Intraformant
 Thumbor
 TightTwatBot
 TinyTestBot
 Titan
 Toata
+Tollbit
 Toweyabot
 Tracemyfile
 Trendiction
 Trendictionbot
+TruffleHog
 True_Robot
+TsunamiSecurityScanner
 Turingos
 Turnitin
 TurnitinBot
 TwengaBot
 Twice
 Typhoeus
+URLy Warning
 URLy.Warning
-URLy  Warning
+UT-Dorkbot/1.0
 UnisterBot
 Upflow
 V-BOT
-VB  Project
+VB Project
 VCI
 Vacuum
 Vagabondo
+Vega/
 VelenPublicWebCrawler
 VeriCiteCrawler
 VidibleScraper
@@ -534,6 +581,7 @@ WBSearchBot
 WEBDAV
 WISENutbot
 WPScan
+WPProbe
 WWW-Collector-E
 WWW-Mechanize
 WWW::Mechanize
@@ -541,7 +589,16 @@ WWWOFFLE
 Wallpapers
 Wallpapers/3.0
 WallpapersHD
+Wapiti
 WeSEE
+Web Auto
+Web Collage
+Web Enhancer
+Web Fetch
+Web Fuck
+Web Pix
+Web Sauger
+Web Sucker
 WebAuto
 WebBandit
 WebCollage
@@ -549,7 +606,7 @@ WebCopier
 WebEnhancer
 WebFetch
 WebFuck
-WebGo  IS
+WebGo IS
 WebImageCollector
 WebLeacher
 WebPix
@@ -559,42 +616,45 @@ WebStripper
 WebSucker
 WebWhacker
 WebZIP
-Web  Auto
-Web  Collage
-Web  Enhancer
-Web  Fetch
-Web  Fuck
-Web  Pix
-Web  Sauger
-Web  Sucker
 Webalta
 WebmasterWorldForumBot
 Webshag
+Website Quester
 WebsiteExtractor
 WebsiteQuester
-Website  Quester
 Webster
+WellKnownBot
 Whack
 Whacker
 Whatweb
-Who.is  Bot
+Whatwaf
+WhiteHat Security
+Who.is Bot
 Widow
 WinHTTrack
-WiseGuys  Robot
+WiseGuys Robot
 Wonderbot
 Woobot
 Wotbox
 Wprecon
-Xaldon  WebSpider
+Xaldon WebSpider
 Xaldon_WebSpider
 Xenu
+XSStrike
 YaK
+YandexBot
+YandexImages
+YandexVideo
 Ybot
+YesWeHack-Hunter
+YisouSpider
+YouBot
 YoudaoBot
 Zade
 Zauba
 Zermelo
 Zeus
+Zgrab
 Zitebot
 ZmEu
 ZoomBot
@@ -602,20 +662,28 @@ ZoominfoBot
 ZumBot
 ZyBorg
 adscanner
+aiohttp
 anthropic-ai
+appspider
+arachni
 archive.org_bot
 arquivo-web-crawler
 arquivo.pt
 autoemailspider
 awario.com
 backlink-check
+betabot
+bewica-security-scan
 cah.io.community
 check1.exe
 clark-crawler
+cmsmap
 coccocbot
 cognitiveseo
 cohere-ai
+colonel
 com.plumanalytics
+commix
 crawl.sogou.com
 crawler.feedback
 crawler4j
@@ -623,81 +691,119 @@ dataforseo.com
 dataforseobot
 dataprovider
 demandbase-bot
+dirbuster
 domainsproject.org
+droopescan
 eCatch
 evc-batch
 everyfeed-spider
 facebookscraper
+feroxbuster
+fimap
+fuzz faster
 gopher
+gobuster
+graphql-cop
+graphw00f
+havij
 heritrix
+hexometer
 imagesift.com
+infobot
 instabid
-internetVista  monitor
+internetVista monitor
 ips-agent
+ironwasp
 isitwp.com
 iubenda-radar
+jSQL
+jbrofuzz
+joomscan
+jorgee
+l9explore
+l9tcpid
+libwhisker
 linkdexbot
 linkfluence
 lwp-request
 lwp-trivial
 magpie-crawler
+masscan
 meanpathbot
 mediawords
+morfeus
 muhstik-scan
-netEstate  NE  Crawler
+n-stalker
+nessus
+netEstate NE Crawler
+netlab360
+netsparker
+nettacker
+nikto
+nmap
+noseyparker
+nuclei
 oBot
 omgili
 openai
 openai.com
-page  scorer
+openvas
+page scorer
 pcBrowser
 plumanalytics
-polaris  version
+polaris version
 probe-image-size
+qualysguard
 ripz
 s1z.ru
 satoristudio.net
 scalaj-http
 scan.lol
+securityagent
 seobility
 seocompany.store
 seoscanners
 seostar
 serpstatbot
 sexsearcher
+shortscan
 sitechecker.pro
 siteripz
+sitelockspider
+skipfish
 sogouspider
 sp_auditbot
 spyfu
+sqlmap
+sqlninja
 sysscan
 tAkeOut
+tplmap
 trendiction.com
 trendiction.de
 ubermetrics-technologies.com
+vega/
+virusdie-sdsnetwork
 voyagerx.com
+w3af.org
+wapiti
 webgains-bot
 webmeup-crawler
 webpros.com
 webprosbot
-WellKnownBot
+webbandit
+webshag
+wfuzz
+whatwaf
+whatweb
+wp_is_mobile
+wprecon
+wpscan
 x09Mozilla
 x22Mozilla
 xpymep1.exe
+xsstrike
+xsser
 zauba.io
 zgrab
-mozlila
-UT-Dorkbot/1.0
-Nuclei
-OpenVAS
-WhiteHat Security
-Punkspider
-Greenbone OS
-WPScan
-Detectify
-virusdie-sdsnetwork
-ALittle Client
-ALittleClient
-colonel
-wp_is_mobile
-AnonymousFox
+zmeu
